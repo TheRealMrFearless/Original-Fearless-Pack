@@ -4,4 +4,4 @@ The orginal Fearless Pack, for posterity. Due to a game update, the pack no long
 
 If you wish to find the latest version of the Fearless Pack, it can be found here: https://github.com/TheRealMrFearless/Fearless-Pack
 
-The MrFearless discord can be found here: https://discord.gg/Wa4kGyn.
+For updates on this pack and more, the MrFearless discord can be found here: https://discord.gg/Wa4kGyn.
